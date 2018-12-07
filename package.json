@@ -1,0 +1,20 @@
+{
+  "name": "styled-system-playground",
+  "private": true,
+  "version": "0.0.0-development",
+  "license": "MIT",
+  "repository": "macklinu/styled-system-playground",
+  "scripts": {
+    "start": "mdx-go src",
+    "build": "mdx-go build src"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mdx-go": "^2.0.0-32",
+    "prettier": "^1.15.3"
+  },
+  "resolutions": {
+    "mdx-go/react": "16.7.0-alpha.2",
+    "mdx-go/react-dom": "16.7.0-alpha.2"
+  }
+}
